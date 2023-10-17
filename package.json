@@ -33,5 +33,12 @@
   },
   "devDependencies": {
     "@types/react-vertical-timeline-component": "^3.3.3"
-  }
+  },
+  "description": "[![Watch tutorial here](https://img.youtube.com/vi/sUKptmUVIBM/0.jpg)](https://youtu.be/sUKptmUVIBM)",
+  "main": "next.config.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "author": "",
+  "license": "ISC"
 }
