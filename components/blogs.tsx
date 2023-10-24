@@ -14,7 +14,7 @@ export default function Blogs() {
       <SectionHeading>My blogs</SectionHeading>
       <div>
         {blogsData.map((project, index) => (
-          < href='/'><React.Fragment key={index}>
+          <a href='/'><React.Fragment key={index}>
            <Project {...project} ></Project>
           </React.Fragment></a>
         ))}
