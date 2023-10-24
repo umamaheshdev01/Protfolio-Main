@@ -39,23 +39,32 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Graduated bootcamp",
-    location: "Miami, FL",
+    title: "Class 12",
+    location: "Hyderabad",
     description:
-      "I graduated after 6 months of studying. I immediately found a job as a front-end developer.",
+      "Completed my 12th at my home state Telanagna at Narayana group of schools.",
     icon: React.createElement(LuGraduationCap),
-    date: "2019",
+    date: "2022",
+  },
+  {
+    title: "B-Tech",
+    location: "Kurukshetra",
+    description:
+      "Currently pursuing my B-Tech 2nd year at NIT Kurukshetra.",
+    icon: React.createElement(LuGraduationCap),
+    date: "Present",
   },
  
 ] as const;
 
 export const projectsData = [
   {
-    title: "CorpComment",
+    title: "Movie Ticket Website",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
-    tags: ["React", "Next.js", "MongoDB", "Tailwind", "Prisma"],
+      "My First Project , Pure HTML CSS - Movie Tickect Booking website",
+    tags: ["HTML", "CSS", "Javascript"],
     imageUrl: corpcommentImg,
+    link : "google.com"
   }
 ] as const;
 
