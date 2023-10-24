@@ -52,7 +52,7 @@ export const experiencesData = [
     description:
       "Currently pursuing my B-Tech 2nd year at NIT Kurukshetra.",
     icon: React.createElement(LuGraduationCap),
-    date: "Present",
+    date: "2023",
   },
  
 ] as const;
