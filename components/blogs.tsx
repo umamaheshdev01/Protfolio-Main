@@ -15,7 +15,7 @@ export default function Blogs() {
       <div>
         {blogsData.map((project, index) => (
           <React.Fragment key={index}>
-          <a href='/'> <Project {...project} ></Project> </a>
+         <Project {...project} ></Project>
           </React.Fragment>
         ))}
       </div>
