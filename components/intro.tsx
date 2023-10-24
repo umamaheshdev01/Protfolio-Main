@@ -31,7 +31,7 @@ export default function Intro() {
             }}
           >
             <Image
-              src="https://i.pinimg.com/564x/2f/96/7e/2f967eb5ef984715ddd27baf7f85c291.jpg"
+              src="https://i.pinimg.com/736x/ea/ad/8f/eaad8f29a6bb10ecac5a830834cf1062.jpg"
               alt="Ricardo portrait"
               width="192"
               height="192"
